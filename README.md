@@ -2,7 +2,10 @@
 - 👀 I’m interested in Marketing and Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me  linkdin,facebook ,Instagram
+- 📫 How to reach me  
+- linkdin := linkedin.com/in/aryan-khandelwal-219104152
+- facebook:- 
+-  Instagram;- aryankhandelwal6377
 
 
 Some Project are not upload due to some uploading error. You can contact me for more intresting websites code 
